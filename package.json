@@ -1,0 +1,27 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billywzliu/react-tutorial.git"
+  },
+  "author": "Billy Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billywzliu/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/billywzliu/react-tutorial#readme",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "webpack": "^2.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1"
+  }
+}
