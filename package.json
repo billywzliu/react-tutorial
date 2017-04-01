@@ -4,7 +4,7 @@
   "description": "Tutorial",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server --content-base src --inline --hot",
+    "dev": "webpack-dev-server --content-base src --inline",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
